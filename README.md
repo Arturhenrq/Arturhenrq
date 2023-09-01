@@ -6,3 +6,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturhenrq&show_icons=true&theme=onedark)
 
 </div>
+![snake gif](https://github.com/Artuhenrq/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
